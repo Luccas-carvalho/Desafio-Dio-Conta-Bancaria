@@ -1,18 +1,21 @@
-## Getting Started
+# Desafio DIO - Projeto de Conta Bancária 💼
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Este é um simples programa em Java que cria uma conta bancária e cumprimenta o usuário de acordo com a hora do dia🌞🌙.
 
-## Folder Structure
+## Descrição 📄
 
-The workspace contains two folders by default, where:
+Este programa Java interage com o usuário para criar uma conta bancária fictícia. Ele cumprimenta o usuário com "Bom dia", "Boa tarde" ou "Boa noite" com base na hora atual e solicita informações como nome, número da conta, número da agência e saldo. Em seguida, ele exibe uma mensagem de boas-vindas com os dados fornecidos 🤝🏦.
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+## Pré-requisitos ⚙️
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+Antes de executar o programa, certifique-se de que você tenha o Java instalado no seu sistema ☕.
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+## Executando o Programa ▶️
 
-## Dependency Management
+1. Clone o repositório para o seu ambiente local.
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+2. Abra o terminal e navegue até o diretório do projeto.
+
+3. Siga as instruções do programa para interagir com ele 📝.
+
+**Divirta-se criando sua própria conta bancária fictícia! 💳💸🎉**
